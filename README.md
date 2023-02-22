@@ -1,1 +1,1 @@
-# YOLOv8_for_humanities_researches
+# YOLOv8_for_humanities_researches_guide

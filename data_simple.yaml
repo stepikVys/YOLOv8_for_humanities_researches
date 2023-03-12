@@ -1,0 +1,12 @@
+names:
+- carpet
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: carpet-s-object-detection
+  url: https://universe.roboflow.com/stepan-vysotskiy-wxury/carpet-s-object-detection/dataset/4
+  version: 4
+  workspace: stepan-vysotskiy-wxury
+test: test/images
+train: train/images
+val: valid/images

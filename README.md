@@ -1,1 +1,1 @@
-# YOLOv8_for_humanities_researches_guide
+# OpenSource Data, исследование ЕУСПб в рамках культурного марафона Яндекса 2023
